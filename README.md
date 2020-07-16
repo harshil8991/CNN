@@ -8,3 +8,7 @@ Hyperparameters are the variables that govern the training process and the topol
 
 Model hyperparameters which influence model selection such as the number and width of hidden layers
 Algorithm hyperparameters which influence the speed and quality of the learning algorithm such as the learning rate for Stochastic Gradient Descent (SGD) and the number of nearest neighbors for a k Nearest Neighbors (KNN) classifier
+
+## Result
+
+Using the Keras Tuner library we were able to achive a accuracy of 98.02.
